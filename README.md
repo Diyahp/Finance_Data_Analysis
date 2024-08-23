@@ -1,11 +1,11 @@
-***Financial Data Analysis using SQL***
+***<h3>Financial Data Analysis using SQL</h3>***
 
 **Introduction**
 This repository contains SQL queries designed to analyze a dataset related to financial data. The queries aim to provide insights into investor behavior, investment preferences, and factors influencing investment decisions
 
 ***Data Overview***
 
-***Data Source***: The data was gotten from https://www.kaggle.com/code/emremsr/finance-data#Reason_Mutual
+***Data Source***:</br> The data was gotten from https://www.kaggle.com/code/emremsr/finance-data#Reason_Mutual
 ***Data Description**: 
 The dataset contains information about financial investors, including their gender, age, investment preferences, and reasons for investing in various asset classes. Key columns include:
 <ul>Gender</ul>
@@ -61,7 +61,7 @@ Reasons for investing in bonds: SELECT Reason_Bonds, COUNT(*) AS num_investors F
 
 
 
-***Results and Insights***
+***Results and Insights***<br>
 Summary of Key Findings from the Financial Data Analysis
 Most Preferred Investment Avenue: The most popular investment avenue among respondents was Mutual Funds.
 Age-Based Preferences:
@@ -69,8 +69,8 @@ Younger investors (18-30) were more likely to choose Mutual Funds.
 Older investors (31-45) tended to prefer Mutual Fund.
 Investors over 46 showed a preference for None.
 Total Investments: The total amount invested in each category varied, with 18-30 having the highest total investment.
-Investment Factors and Objectives:
 
+***Investment Factors and Objectives***:
 Key Factors: The most important factors considered by investors were Returns
 Investment Objectives and Avenues: The relationship between investment objectives and investment avenues was complex. For example, investors seeking Retirement Plan often chose Mutual Fund.
 Reasons for Investing:
@@ -81,4 +81,4 @@ Additional Insights:
 Investment Duration: Investors typically held their investments for 3-5 years.
 Investment Monitoring: Most investors checked their investments Monthly.
 
-Note: These findings are based on the provided SQL queries and the assumptions made about the data. The actual results may vary depending on the specific data used and the interpretation of the findings.
+***Note***: These findings are based on the provided SQL queries and the assumptions made about the data. The actual results may vary depending on the specific data used and the interpretation of the findings.
