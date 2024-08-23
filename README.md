@@ -1,6 +1,6 @@
 ***<h3>Financial Data Analysis using SQL</h3>***
 
-**Introduction**
+**Introduction**<br>
 This repository contains SQL queries designed to analyze a dataset related to financial data. The queries aim to provide insights into investor behavior, investment preferences, and factors influencing investment decisions
 
 ***Data Overview***
