@@ -30,14 +30,14 @@ The dataset contains information about financial investors, including their gend
 <ul>Source</ul>
 
 ***Analysis Goals***
-Investment Preferences:
-Determine the most preferred investment avenues.
-Analyze investment preferences based on age groups.
-Evaluate the total investments in different categories.
-Investment Factors and Objectives:
-Identify key factors considered by investors.
-Analyze the relationship between investment objectives and investment avenues.
-Investigate reasons for investing in specific asset classes (equity, mutual funds, bonds).
+<ul>Investment Preferences</ul>
+<ul>Determine the most preferred investment avenues.</ul>
+<ul>Analyze investment preferences based on age groups.</ul>
+<ul>Evaluate the total investments in different categories.</ul>
+<ul>Investment Factors and Objectives</ul>
+<ul>Identify key factors considered by investors.</ul>
+<ul>Analyze the relationship between investment objectives and investment avenues.</ul>
+<ul>Investigate reasons for investing in specific asset classes (equity, mutual funds, bonds).</ul>
 
 ***SQL Queries***
 <li>1. Data Exploration:</li>
